@@ -1,0 +1,57 @@
+//console log proves exported correctly
+// console.log("loaded");
+
+//flashcard questions array
+exports.fronts = [{
+
+    "question": "Who was the first president?"
+}, {
+
+    "question": "Who was the first black president?"
+}, {
+
+    "question": "Who was the first orange president?"
+}, {
+
+    "question": "Who was the 16th president of the United States?"
+}, {
+
+    "question": "Which president wrote the Declaration of Independence?"
+}, {
+
+    "question": "Which president drafted the 'New Deal?'"
+}, {
+
+    "question": "Which president was re-elected in 2004?"
+}, {
+
+    "question": "Which president said 'Speak softly and carry a big stick?' "
+
+}];
+
+//flashcard answers array
+exports.backs = [{
+
+    "answer": "George Washington"
+}, {
+
+    "answer": "Barack Obama"
+}, {
+
+    "answer": "Donald Trump"
+}, {
+
+    "answer": "Abraham Lincoln"
+}, {
+
+    "answer": "Thomas Jefferson"
+}, {
+
+    "answer": "Franklin Roosevelt"
+}, {
+
+    "answer": "George W. Bush"
+}, {
+
+    "answer": "Theodore Roosevelt"
+}];

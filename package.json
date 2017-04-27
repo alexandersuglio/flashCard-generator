@@ -1,0 +1,23 @@
+{
+  "name": "flash-card-read-and-write",
+  "version": "1.0.0",
+  "description": "app which lets you write flash cards and quizzes you",
+  "main": "flashcard.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandersuglio/flashCard-generator.git"
+  },
+  "author": "Alex Suglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandersuglio/flashCard-generator/issues"
+  },
+  "homepage": "https://github.com/alexandersuglio/flashCard-generator#readme"
+}

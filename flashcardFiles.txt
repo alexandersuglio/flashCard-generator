@@ -1,0 +1,3 @@
+{"question":"who was the best president","answer":"FDR"}
+{"question":"When was thewar of 1812?","answer":"1812"}
+{"question":"Who is the best dog in the world?","answer":"Joker"}

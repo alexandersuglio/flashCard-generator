@@ -74,7 +74,6 @@ function makeCard() {
     }, {
         name: "answer",
         message: "Type Answer Here"
-no
     }]).then(function(answers) {
 
 //example using the above constructor 
